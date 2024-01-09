@@ -1,0 +1,15 @@
+.md-table td {
+  padding: 0.1rem;
+}
+.tb-mini td {
+  padding: 0.1rem;
+}
+.btn-xxs {
+  padding: 0.125rem 0.3rem !important;
+  font-size: 0.7rem !important;
+  line-height: 8px !important;
+  border-radius: 0.15rem !important;
+}
+.content-wrapper {
+  margin-top: 3rem;
+}
